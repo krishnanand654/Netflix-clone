@@ -1,4 +1,4 @@
-#Deployed
+# Deployed
 
 check out 
 https://netflix-clone-project1-f6a36.web.app/
