@@ -26,12 +26,6 @@
   color: #fff;
 }
 
-@media only screen and (max-width: 390px) {
-  .banner__description {
-    width: 100%;
-  }
-}
-
 .banner__button {
   cursor: pointer;
   color: #fff;
@@ -61,4 +55,10 @@
     rgba(37, 37, 37, 0.61),
     #111
   );
+}
+
+@media only screen and (max-width: 390px) {
+  .banner__description {
+    width: 100%;
+  }
 }
