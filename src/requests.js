@@ -1,4 +1,4 @@
-const API_KEY = "9502f4caa288dbb80be138405a8a9b7c";
+const API_KEY = "your API KEY from TMDB";
 
 
 const requests = {
